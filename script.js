@@ -16,31 +16,30 @@ const horario = {
         
     ],
     Miércoles: [
-      { materia: "Geografia", inicio: "(7:00)", fin: "(7:50)" },
-      { materia: "Psicologia I", inicio: "(7:50)", fin: "(8:40)" },
-      { materia: "Matematicas V", inicio: "(8:40)", fin: "(9:30)" },
-      { materia: "Economia I", inicio: "(9:30)", fin: "(10:20)" },
-      { materia: "Salud, INT. Del Adolecente", inicio: "(10:40)", fin: "(12:20)" },
-      { materia: "Introduccion a la filosofia ", inicio: "(12:20)", fin: "(1:10)" },
+      { materia: "Matemáticas V", inicio: "(7:00)", fin: "(7:50)" },
+      { materia: "Activación Física", inicio: "(7:50)", fin: "(8:40)" },
+      { materia: "Sistemas de Información", inicio: "(8:40)", fin: "(10:20)" },
+      { materia: "Artísticas y culturales III", inicio: "(10:40)", fin: "(12:20)" },
+      { materia: "Derecho I", inicio: "(12:20)", fin: "(2:00)" },
+      
         
     ],
     Jueves: [
-        { materia: "Geografia", inicio: "(7:00)", fin: "(7:50)" },
-        { materia: "Psicologia I", inicio: "(7:50)", fin: "(8:40)" },
-        { materia: "Matematicas V", inicio: "(8:40)", fin: "(9:30)" },
-        { materia: "Economia I", inicio: "(9:30)", fin: "(10:20)" },
-        { materia: "Salud, INT. Del Adolecente", inicio: "(10:40)", fin: "(12:20)" },
-        { materia: "Introduccion a la filosofia ", inicio: "(12:20)", fin: "(1:10)" },
+        { materia: "Inglés V", inicio: "(7:00)", fin: "(7:50)" },
+        { materia: "Programación", inicio: "(7:50)", fin: "(8:40)" },
+        { materia: "Psicología", inicio: "(8:40)", fin: "10:20)" },
+        { materia: "Introducción a la filosofía", inicio: "(10:40)", fin: "(12:20)" },
+        { materia: "Socioeconómia de México", inicio: "(12:20)", fin: "(2:00)" },
+
         
     ],
     Viernes: [
-        { materia: "Geografia", inicio: "(7:00)", fin: "(7:50)" },
-        { materia: "Psicologia I", inicio: "(7:50)", fin: "(8:40)" },
-        { materia: "Matematicas V", inicio: "(8:40)", fin: "(9:30)" },
-        { materia: "Economia I", inicio: "(9:30)", fin: "(10:20)" },
-        { materia: "Salud, INT. Del Adolecente", inicio: "(10:40)", fin: "(12:20)" },
-        { materia: "Introduccion a la filosofia ", inicio: "(12:20)", fin: "(1:10)" },
-        
+        { materia: "Geografia", inicio: "(7:00)", fin: "(8:40)" },
+        { materia: "Programación", inicio: "(8:40)", fin: "10:20)" },
+        { materia: "Matematicas V", inicio: "(10:40)", fin: "(11:30)" },
+        { materia: "Introducción a la filosofía", inicio: "(11:30)", fin: "(12:20)" },
+        { materia: "Inglés V", inicio: "(12:20)", fin: "(2:00)" },
+ 
     ],
     
 };
