@@ -16,12 +16,30 @@ const horario = {
         
     ],
     Miércoles: [
-      
+      { materia: "Geografia", inicio: "(7:00)", fin: "(7:50)" },
+      { materia: "Psicologia I", inicio: "(7:50)", fin: "(8:40)" },
+      { materia: "Matematicas V", inicio: "(8:40)", fin: "(9:30)" },
+      { materia: "Economia I", inicio: "(9:30)", fin: "(10:20)" },
+      { materia: "Salud, INT. Del Adolecente", inicio: "(10:40)", fin: "(12:20)" },
+      { materia: "Introduccion a la filosofia ", inicio: "(12:20)", fin: "(1:10)" },
+        
     ],
     Jueves: [
-       
+        { materia: "Geografia", inicio: "(7:00)", fin: "(7:50)" },
+        { materia: "Psicologia I", inicio: "(7:50)", fin: "(8:40)" },
+        { materia: "Matematicas V", inicio: "(8:40)", fin: "(9:30)" },
+        { materia: "Economia I", inicio: "(9:30)", fin: "(10:20)" },
+        { materia: "Salud, INT. Del Adolecente", inicio: "(10:40)", fin: "(12:20)" },
+        { materia: "Introduccion a la filosofia ", inicio: "(12:20)", fin: "(1:10)" },
+        
     ],
     Viernes: [
+        { materia: "Geografia", inicio: "(7:00)", fin: "(7:50)" },
+        { materia: "Psicologia I", inicio: "(7:50)", fin: "(8:40)" },
+        { materia: "Matematicas V", inicio: "(8:40)", fin: "(9:30)" },
+        { materia: "Economia I", inicio: "(9:30)", fin: "(10:20)" },
+        { materia: "Salud, INT. Del Adolecente", inicio: "(10:40)", fin: "(12:20)" },
+        { materia: "Introduccion a la filosofia ", inicio: "(12:20)", fin: "(1:10)" },
         
     ],
     
